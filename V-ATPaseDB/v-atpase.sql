@@ -1,7 +1,7 @@
 /* A relational V-ATPase database of VATPase
 *  orthologs, mutations, and mutant phenotypes
 *
-* Authors: Hieu Ngyuen and Glen Ernstrom
+* Authors: Hieu Nguyen and Glen Ernstrom
 * Middlebury College
 * 2020-03-15
 */
