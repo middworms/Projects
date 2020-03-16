@@ -1,0 +1,1 @@
+SELECT * FROM Sectors -- show both sectors of the V-ATPase
